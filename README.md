@@ -4,6 +4,7 @@ IoT Desk Clock with automatic NTP time sync and weather display
 The ESP8266 code is built on the Arduino framework. 
 
 ## Features
+- time and date display (incl. current day of week)
 - automatic Network Time Protocol (NTP) based sync
 - OpenWeatherMap integration for current weather conditions
 - option to display weather for the next day
